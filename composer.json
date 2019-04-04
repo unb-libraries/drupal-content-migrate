@@ -1,0 +1,17 @@
+{
+  "name": "unb-libraries/drupal-content-migrate",
+  "description": "Libraries for migrating content in Drupal 8 instances.",
+  "type": "metapackage",
+  "require": {
+    "drupal/migrate_plus": "4.1",
+    "drupal/migrate_source_csv": "2.2",
+    "drupal/migrate_tools": "4.1"
+  },
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "UNB Libraries",
+      "email": "libsupport@unb.ca"
+    }
+  ]
+}
